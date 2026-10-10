@@ -26,18 +26,6 @@ Built with **Go · React · TypeScript · Leaflet · Wails**.
 - Internet access for current weather data and Azure speech.
 - An Azure Speech resource only if you want voice announcements. The map and custom sounds work without Azure.
 
-## Installation
-
-Download the desired build from this repository's **Releases**, when published.
-
-| Download | Use |
-| --- | --- |
-| `US-Disaster-Prevention-Alpha-v0.0.11-Setup.exe` | Install for your Windows account, with Start menu shortcuts and an optional desktop shortcut. |
-| `US-Disaster-Prevention-Alpha-v0.0.11.exe` | Run the portable app directly. |
-
-Close any running copy before updating. Go and Node.js are not needed to run the app. Boundaries and frontend assets are embedded; live data requires internet access.
-
-Installed copies can be removed through **Windows Settings → Apps** or the Start menu uninstall shortcut. Saved settings are retained.
 
 ## Using the map
 
