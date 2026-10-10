@@ -1,7 +1,5 @@
 US-Disaster Prevention
 
-**Alpha v0.0.11 · Windows desktop application**
-
 A dark, smoked-glass weather map with live US National Weather Service alerts, county highlighting, hurricane forecasts, custom warning sounds, and optional Azure voice announcements.
 
 Built with **Go · React · TypeScript · Leaflet · Wails**.
